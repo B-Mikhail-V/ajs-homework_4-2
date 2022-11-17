@@ -1,4 +1,4 @@
-import sortGamers from '../src/matcher';
+import sortGamers from '../src/heroes';
 
 const listIn = [
   { name: 'мечник', health: 10 },
